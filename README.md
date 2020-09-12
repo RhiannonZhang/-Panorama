@@ -1,5 +1,4 @@
-# CSCI1430-Final-Project
-Automatic Panoramic Image Stitching  
+# Automatic Panoramic Image Stitching  
 
 In this project, we build panorama image stitching with unordered data.
 
