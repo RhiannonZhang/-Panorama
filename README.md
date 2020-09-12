@@ -1,6 +1,6 @@
 # Automatic Panoramic Image Stitching  
 
-In this project, we build panorama image stitching with unordered data.
+To build panorama image stitching with unordered data.
 
 * Requirements:
 	* Python >= 3.5
